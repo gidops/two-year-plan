@@ -1,0 +1,497 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Two-Year Alignment Plan//Gideon//EN
+X-WR-CALNAME:Two-Year Plan
+X-WR-TIMEZONE:Africa/Lagos
+BEGIN:VTIMEZONE
+TZID:Africa/Lagos
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:WAT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Morning: reflection\, leadership page\, walk if possible
+DTSTART;TZID=Africa/Lagos:20261005T060000
+DTEND;TZID=Africa/Lagos:20261005T063000
+DTSTAMP:20260929T104431Z
+UID:7b9bff1f-e808-4cab-a4b9-9c64488eb5f2@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,TU,WE,TH,FR
+DESCRIPTION:No phone before this block. One page of the current leadership
+  book\, or the weekly review file. Monday: read the events & grants digest
+  here.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morning: reflection\, leadership page\, walk if possible
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Transition: commute\, food\, rest\, short walk
+DTSTART;TZID=Africa/Lagos:20261005T170000
+DTEND;TZID=Africa/Lagos:20261005T180000
+DTSTAMP:20260929T104431Z
+UID:3bde78c6-a03f-4550-b80a-7840fb97da59@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,TU,WE,TH,FR
+DESCRIPTION:The tired-to-scroll hour. Walk if you can. From Jan 2027 this 
+ is the gym slot on Mon/Wed/Fri.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shutdown: one-line day review + tomorrow's Daily 3
+DTSTART;TZID=Africa/Lagos:20261005T210000
+DTEND;TZID=Africa/Lagos:20261005T213000
+DTSTAMP:20260929T104431Z
+UID:3b03a842-8995-43a8-a39e-888ca99c2f5f@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,TU,WE,TH,FR
+DESCRIPTION:Write one line: what did I do today that will still matter in 
+ 2028? Then pick tomorrow's three: one technical\, one money/business/tradi
+ ng\, one personal/leadership.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shutdown: one-line day review + tomorrow's Daily 3
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sleep prep: phone outside the room
+DTSTART;TZID=Africa/Lagos:20261005T223000
+DTEND;TZID=Africa/Lagos:20261005T230000
+DTSTAMP:20260929T104431Z
+UID:af195d12-dafc-41c9-a089-77716303103f@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,TU,WE,TH,FR
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sleep prep: phone outside the room
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep work: AWS fundamentals / current cert
+DTSTART;TZID=Africa/Lagos:20261005T180000
+DTEND;TZID=Africa/Lagos:20261005T193000
+DTSTAMP:20260929T104431Z
+UID:f337ddc0-f202-43f2-91d9-820d6647c22a@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO
+DESCRIPTION:Cantrill SAA now\; Terraform Associate in Q1 2027\; CKA in Q2 
+ 2027. Build the thing\, then read the next chapter.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deep work: AWS fundamentals / current cert
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finances: log spending\, check the debt line
+DTSTART;TZID=Africa/Lagos:20261005T200000
+DTEND;TZID=Africa/Lagos:20261005T210000
+DTSTAMP:20260929T104431Z
+UID:d74016f6-929e-4b76-b85e-71e0935d528c@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO
+DESCRIPTION:Every naira for the week into the tracker. Debt payment confir
+ med. Surplus figure written down.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Finances: log spending\, check the debt line
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep work: Terraform / infrastructure as code
+DTSTART;TZID=Africa/Lagos:20261006T180000
+DTEND;TZID=Africa/Lagos:20261006T193000
+DTSTAMP:20260929T104431Z
+UID:7d78e3c4-68bf-4457-932b-1454a55f270f@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=TU
+DESCRIPTION:Portfolio build 3: VMS infra as Terraform modules with a plan/
+ apply pipeline.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deep work: Terraform / infrastructure as code
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trading: journal + review demo trades
+DTSTART;TZID=Africa/Lagos:20261006T200000
+DTEND;TZID=Africa/Lagos:20261006T210000
+DTSTAMP:20260929T104431Z
+UID:95feb5fc-7973-4f8e-b5ce-836a7b4a1809@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=TU
+DESCRIPTION:Every trade logged the day it happens: setup\, entry\, stop\, 
+ target\, risk\, reason\, signal\, result\, rule adherence\, lesson. Log yo
+ ur own read BEFORE the signal.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Trading: journal + review demo trades
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep work: Linux\, Docker\, containers
+DTSTART;TZID=Africa/Lagos:20261007T180000
+DTEND;TZID=Africa/Lagos:20261007T193000
+DTSTAMP:20260929T104431Z
+UID:cb0ee1bd-d966-4f3b-a09d-a8fb36fb090d@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=WE
+DESCRIPTION:Shotts exercises\, then Docker Deep Dive. Portfolio build 2.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deep work: Linux\, Docker\, containers
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Master's coursework
+DTSTART;TZID=Africa/Lagos:20261007T200000
+DTEND;TZID=Africa/Lagos:20261007T210000
+DTSTAMP:20260929T104431Z
+UID:b62b3db9-9bd1-4107-9569-3cc7f8f543e8@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=WE
+DESCRIPTION:Miva modules / capstone. The capstone repo is portfolio build 
+ 3 and stays public.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Master's coursework
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep work: AWS architecture & security
+DTSTART;TZID=Africa/Lagos:20261008T180000
+DTEND;TZID=Africa/Lagos:20261008T193000
+DTSTAMP:20260929T104431Z
+UID:c4f7d4d3-6c74-4d05-9959-0daf8f3946f0@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=TH
+DESCRIPTION:Well-Architected review of the VMS\; IAM\, networking\, harden
+ ing module.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deep work: AWS architecture & security
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family business: ledger\, storefront\, plan
+DTSTART;TZID=Africa/Lagos:20261008T200000
+DTEND;TZID=Africa/Lagos:20261008T210000
+DTSTAMP:20260929T104431Z
+UID:e444eec8-e5a1-4c4f-9214-29861e12cbec@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=TH
+DESCRIPTION:One row in the ledger\, one step on the storefront or one para
+ graph of the one-page plan. Files go in the business folder.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Family business: ledger\, storefront\, plan
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep work: consolidate\, commit\, README
+DTSTART;TZID=Africa/Lagos:20261009T180000
+DTEND;TZID=Africa/Lagos:20261009T193000
+DTSTAMP:20260929T104431Z
+UID:6ecbf5b4-dc43-4534-b27b-34cb95c53ed7@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=FR
+DESCRIPTION:Push the week's work. Update README\, diagram\, cost figure. N
+ o new topics on Friday.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deep work: consolidate\, commit\, README
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free evening
+DTSTART;TZID=Africa/Lagos:20261009T200000
+DTEND;TZID=Africa/Lagos:20261009T210000
+DTSTAMP:20260929T104431Z
+UID:adf951fb-a9ec-44de-882c-10fcc8c7cfe2@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=FR
+DESCRIPTION:Recovery is part of the system. No guilt.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Free evening
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chores\, laundry\, clothes for the week
+DTSTART;TZID=Africa/Lagos:20261003T070000
+DTEND;TZID=Africa/Lagos:20261003T090000
+DTSTAMP:20260929T104431Z
+UID:95416cef-5952-4ddc-bc05-2f906c4a8bdb@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Walk
+DTSTART;TZID=Africa/Lagos:20261003T090000
+DTEND;TZID=Africa/Lagos:20261003T094500
+DTSTAMP:20260929T104431Z
+UID:5baab073-9338-4d45-805e-d302e9f41698@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
+DESCRIPTION:Counts fully. Optional second walk in the evening.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Walk
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud deep work (2 h)
+DTSTART;TZID=Africa/Lagos:20261003T103000
+DTEND;TZID=Africa/Lagos:20261003T123000
+DTSTAMP:20260929T104431Z
+UID:8d64fab5-cd76-4b4c-8f01-a1c5384ea39b@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
+DESCRIPTION:The week's portfolio build. On the first Saturday of the month
+  this moves to the afternoon or is skipped for the leadership programme.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cloud deep work (2 h)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family business (1 h)
+DTSTART;TZID=Africa/Lagos:20261003T140000
+DTEND;TZID=Africa/Lagos:20261003T150000
+DTSTAMP:20260929T104431Z
+UID:7796594f-db3b-4539-bede-a88b8d98eca5@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
+DESCRIPTION:Ledger\, storefront\, plan\, customer conversations\, grant sh
+ ortlist.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trading review (30-60 min)
+DTSTART;TZID=Africa/Lagos:20261003T150000
+DTEND;TZID=Africa/Lagos:20261003T160000
+DTSTAMP:20260929T104431Z
+UID:254ceb76-8b1e-4732-8884-fc43fcb53bb4@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
+DESCRIPTION:Review the week's journal. Win rate\, avg win/avg loss\, worst
+  streak. No new trades in this block.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leadership strategy & development programme
+DTSTART;TZID=Africa/Lagos:20261003T090000
+DTEND;TZID=Africa/Lagos:20261003T130000
+DTSTAMP:20260929T104431Z
+UID:fbb1e7c1-34ca-4d93-af34-367f9838127b@twoyearplan
+RRULE:FREQ=MONTHLY;COUNT=12;BYDAY=1SA
+DESCRIPTION:Monthly session. Afternoon: write one page - what I heard\, wh
+ at I will try before next session\, what I tried since the last one. Adjus
+ t this time to the programme's real hours.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leadership strategy & development programme
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Light cloud (optional\, 60-90 min)
+DTSTART;TZID=Africa/Lagos:20261004T110000
+DTEND;TZID=Africa/Lagos:20261004T123000
+DTSTAMP:20260929T104431Z
+UID:625d1276-751b-456e-9283-110f750aee29@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SU
+DESCRIPTION:Only if practical. Sunday is flexible.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly review + scoreboard + next week's three
+DTSTART;TZID=Africa/Lagos:20261004T170000
+DTEND;TZID=Africa/Lagos:20261004T174500
+DTSTAMP:20260929T104431Z
+UID:a88ae4ac-f252-43ea-aaf4-92d44e95ec53@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SU
+DESCRIPTION:Score each area out of 7. Answer: accomplished/learned/built\;
+  time wasted\; what I avoided from shyness\; finances\, journal\, business
+ \; the one thing for next week. Update the tracker in the plan doc. Pick 3
+  items for the week.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Weekly review + scoreboard + next week's three
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterly review: Q4 2026 (90 min)
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+DTSTAMP:20260929T104431Z
+UID:c07d6571-5a7f-4036-b615-94cb5fa4cfa2@twoyearplan
+DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
+ e three questions. Copy next quarter into the tracker. Feedback round: ask
+  3 people keep/stop.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Quarterly review: Q4 2026 (90 min)
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterly review: Q1 2027 (90 min)
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+DTSTAMP:20260929T104431Z
+UID:6c17f829-2fd1-4f87-ad04-4f51ca966f46@twoyearplan
+DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
+ e three questions. Copy next quarter into the tracker. Feedback round: ask
+  3 people keep/stop.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Quarterly review: Q1 2027 (90 min)
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterly review: Q2 2027 (90 min)
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+DTSTAMP:20260929T104431Z
+UID:204a224a-293a-4295-b6e8-4787640103ae@twoyearplan
+DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
+ e three questions. Copy next quarter into the tracker. Feedback round: ask
+  3 people keep/stop.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Quarterly review: Q2 2027 (90 min)
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterly review: Q3 2027 (90 min)
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20270928
+DTSTAMP:20260929T104431Z
+UID:72a996e6-0dfb-4de0-a5df-179f2dc9ada6@twoyearplan
+DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
+ e three questions. Copy next quarter into the tracker. Feedback round: ask
+  3 people keep/stop.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Quarterly review: Q3 2027 (90 min)
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterly review: Q4 2027 (90 min)
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+DTSTAMP:20260929T104431Z
+UID:28edc720-82c9-4107-a229-71b4f6b9fa96@twoyearplan
+DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
+ e three questions. Copy next quarter into the tracker. Feedback round: ask
+  3 people keep/stop.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Quarterly review: Q4 2027 (90 min)
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterly review: Q1 2028 (90 min)
+DTSTART;VALUE=DATE:20280327
+DTEND;VALUE=DATE:20280328
+DTSTAMP:20260929T104431Z
+UID:c8a49e5f-9d00-483d-bd1c-3bd06f5998c2@twoyearplan
+DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
+ e three questions. Copy next quarter into the tracker. Feedback round: ask
+  3 people keep/stop.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Quarterly review: Q1 2028 (90 min)
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterly review: Q2 2028 (90 min)
+DTSTART;VALUE=DATE:20280626
+DTEND;VALUE=DATE:20280627
+DTSTAMP:20260929T104431Z
+UID:407cb577-d17d-44a2-9e5a-508c7c682865@twoyearplan
+DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
+ e three questions. Copy next quarter into the tracker. Feedback round: ask
+  3 people keep/stop.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Quarterly review: Q2 2028 (90 min)
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quarterly review: Q3 2028 (90 min)
+DTSTART;VALUE=DATE:20280925
+DTEND;VALUE=DATE:20280926
+DTSTAMP:20260929T104431Z
+UID:9db9673a-06a0-4229-bbdd-7d03b4c9caee@twoyearplan
+DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
+ e three questions. Copy next quarter into the tracker. Feedback round: ask
+  3 people keep/stop.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Quarterly review: Q3 2028 (90 min)
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gym: choose one and pay for January
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20260929T104431Z
+UID:b8fdd988-9eab-4ae2-881c-b2c6edc777ed@twoyearplan
+DESCRIPTION:Three sessions a week from 4 Jan 2027\, in the 17:00 slot Mon/
+ Wed/Fri. Walking continues.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trading gate: compute six-month demo stats
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+DTSTAMP:20260929T104431Z
+UID:9e0aab27-f2fc-4ea9-9431-ea06284e8e7f@twoyearplan
+DESCRIPTION:Win rate\, average win to average loss\, worst losing streak\,
+  rule adherence %. Positive over six months AND debt cleared AND one-month
+  buffer = live account at 1% risk with money you can lose. Otherwise stay 
+ on demo. Not financial advice\; your rule.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Income checkpoint: offers coming? If not\, what does the market sa
+ y is missing?
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+DTSTAMP:20260929T104431Z
+UID:6f1ba004-8add-4d70-83b3-68f2acdd081e@twoyearplan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gate: senior cloud/DevOps role landed by now
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+DTSTAMP:20260929T104431Z
+UID:eff5bc0d-108e-495e-915e-de6e10129c7c@twoyearplan
+DESCRIPTION:If it slipped\, Year 2 slides with it. Do not force consulting
+  on top.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: first two grant applications submitted
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+DTSTAMP:20260929T104431Z
+UID:58a21658-1cbc-4605-9a67-3390545f2eed@twoyearplan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gym
+DTSTART;TZID=Africa/Lagos:20270104T170000
+DTEND;TZID=Africa/Lagos:20270104T180000
+DTSTAMP:20260929T104431Z
+UID:65e9e349-8df7-4304-acc1-d938ca038158@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,WE,FR
+DESCRIPTION:Replaces the transition walk on these days.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gym
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
