@@ -17,12 +17,17 @@ BEGIN:VEVENT
 SUMMARY:Morning: reflection\, leadership page\, walk if possible
 DTSTART;TZID=Africa/Lagos:20261005T060000
 DTEND;TZID=Africa/Lagos:20261005T063000
-DTSTAMP:20260929T104431Z
-UID:7b9bff1f-e808-4cab-a4b9-9c64488eb5f2@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:11ec214b8e4c8a4fd6eb@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,TU,WE,TH,FR
-DESCRIPTION:No phone before this block. One page of the current leadership
-  book\, or the weekly review file. Monday: read the events & grants digest
-  here.
+DESCRIPTION:No phone before this block. One page or one short talk from th
+ e current leadership source (free routes in the Reading list tab): Q4 2026
+  The Coaching Habit (Stanier\, mbs.works)\; Q1 2027 Radical Candor (radica
+ lcandor.com podcast)\; Q2 2027 Crucial Conversations (Crucial Learning web
+ inars)\; Q3 2027 Insight (Eurich\, TEDx + free quiz)\; Q4 2027 Turn the Sh
+ ip Around! (Marquet's Leadership Nudges)\; Q1 2028 The Making of a Manager
+  (Zhuo's Looking Glass essays). Or the weekly review file. Monday: read th
+ e events & grants digest here.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morning: reflection\, leadership page\, walk if possible
@@ -33,8 +38,8 @@ BEGIN:VEVENT
 SUMMARY:Transition: commute\, food\, rest\, short walk
 DTSTART;TZID=Africa/Lagos:20261005T170000
 DTEND;TZID=Africa/Lagos:20261005T180000
-DTSTAMP:20260929T104431Z
-UID:3bde78c6-a03f-4550-b80a-7840fb97da59@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:acfcf7f930644cf9dc7c@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,TU,WE,TH,FR
 DESCRIPTION:The tired-to-scroll hour. Walk if you can. From Jan 2027 this 
  is the gym slot on Mon/Wed/Fri.
@@ -43,8 +48,8 @@ BEGIN:VEVENT
 SUMMARY:Shutdown: one-line day review + tomorrow's Daily 3
 DTSTART;TZID=Africa/Lagos:20261005T210000
 DTEND;TZID=Africa/Lagos:20261005T213000
-DTSTAMP:20260929T104431Z
-UID:3b03a842-8995-43a8-a39e-888ca99c2f5f@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:959d1cb7dcd81ba69bfb@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,TU,WE,TH,FR
 DESCRIPTION:Write one line: what did I do today that will still matter in 
  2028? Then pick tomorrow's three: one technical\, one money/business/tradi
@@ -59,8 +64,8 @@ BEGIN:VEVENT
 SUMMARY:Sleep prep: phone outside the room
 DTSTART;TZID=Africa/Lagos:20261005T223000
 DTEND;TZID=Africa/Lagos:20261005T230000
-DTSTAMP:20260929T104431Z
-UID:af195d12-dafc-41c9-a089-77716303103f@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:7d1477239a67e44f4d5e@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,TU,WE,TH,FR
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -69,17 +74,24 @@ TRIGGER:P0D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deep work: AWS fundamentals / current cert
+SUMMARY:Deep work: AWS course
 DTSTART;TZID=Africa/Lagos:20261005T180000
 DTEND;TZID=Africa/Lagos:20261005T193000
-DTSTAMP:20260929T104431Z
-UID:f337ddc0-f202-43f2-91d9-820d6647c22a@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:76ea48d544e4210584ae@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO
-DESCRIPTION:Cantrill SAA now\; Terraform Associate in Q1 2027\; CKA in Q2 
- 2027. Build the thing\, then read the next chapter.
+DESCRIPTION:All free. Q4 2026: AWS Skill Builder free tier (skillbuilder.a
+ ws)\, SAA learning plan + Exam Prep Standard Course\, next lesson\; or the
+  freeCodeCamp SAA-C03 video (Andrew Brown) on YouTube. Do the lab\, close 
+ it\, rebuild it yourself. Q1 2027: HashiCorp Terraform Associate exam-prep
+  tutorials (developer.hashicorp.com/terraform/tutorials). Q2 2027: Killerc
+ oda CKA scenarios (killercoda.com\, free) + KodeKloud free labs. Q4 2027: 
+ Skill Builder Security or DevOps Pro plan. 2028: Skill Builder SA Pro plan
+  + AWS Architecture Center. Full list with links: Reading list tab of the 
+ plan doc.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Deep work: AWS fundamentals / current cert
+DESCRIPTION:Deep work: AWS course
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -87,8 +99,8 @@ BEGIN:VEVENT
 SUMMARY:Finances: log spending\, check the debt line
 DTSTART;TZID=Africa/Lagos:20261005T200000
 DTEND;TZID=Africa/Lagos:20261005T210000
-DTSTAMP:20260929T104431Z
-UID:d74016f6-929e-4b76-b85e-71e0935d528c@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:ace81bb0bf0e5f2e5877@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO
 DESCRIPTION:Every naira for the week into the tracker. Debt payment confir
  med. Surplus figure written down.
@@ -99,17 +111,20 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deep work: Terraform / infrastructure as code
+SUMMARY:Deep work: Terraform / IaC build
 DTSTART;TZID=Africa/Lagos:20261006T180000
 DTEND;TZID=Africa/Lagos:20261006T193000
-DTSTAMP:20260929T104431Z
-UID:7d78e3c4-68bf-4457-932b-1454a55f270f@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:4e1a77373c40fd93c7fa@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=TU
-DESCRIPTION:Portfolio build 3: VMS infra as Terraform modules with a plan/
- apply pipeline.
+DESCRIPTION:All free. Q4 2026: Shotts\, The Linux Command Line (free PDF\,
+  linuxcommand.org)\, one chapter + its exercises\, on the Proxmox host. Q1
+  2027 onward: HashiCorp tutorials\, one per session\, then apply it to the
+  VMS infra as modules with a GitHub Actions plan/apply pipeline. Q3 2027: 
+ Google SRE book\, one chapter (free\, sre.google/books).
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Deep work: Terraform / infrastructure as code
+DESCRIPTION:Deep work: Terraform / IaC build
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -117,12 +132,17 @@ BEGIN:VEVENT
 SUMMARY:Trading: journal + review demo trades
 DTSTART;TZID=Africa/Lagos:20261006T200000
 DTEND;TZID=Africa/Lagos:20261006T210000
-DTSTAMP:20260929T104431Z
-UID:95feb5fc-7973-4f8e-b5ce-836a7b4a1809@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:b21314ced833978ae388@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=TU
 DESCRIPTION:Every trade logged the day it happens: setup\, entry\, stop\, 
  target\, risk\, reason\, signal\, result\, rule adherence\, lesson. Log yo
- ur own read BEFORE the signal.
+ ur own read BEFORE the signal. Free study\, one at a time: Q4 2026 Mark Do
+ uglas's 'How to Think Like a Professional Trader' seminar (YouTube\, 4 par
+ ts) + BabyPips School of Pipsology (babypips.com/learn)\; Q1 2027 Van Thar
+ p on expectancy and R-multiples (free articles)\; Q2 2027 Investopedia tec
+ hnical analysis pages\; Q3 2027 Schwager's Market Wizards interviews (YouT
+ ube).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Trading: journal + review demo trades
@@ -133,10 +153,15 @@ BEGIN:VEVENT
 SUMMARY:Deep work: Linux\, Docker\, containers
 DTSTART;TZID=Africa/Lagos:20261007T180000
 DTEND;TZID=Africa/Lagos:20261007T193000
-DTSTAMP:20260929T104431Z
-UID:cb0ee1bd-d966-4f3b-a09d-a8fb36fb090d@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:2246870d2735092c9194@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=WE
-DESCRIPTION:Shotts exercises\, then Docker Deep Dive. Portfolio build 2.
+DESCRIPTION:All free. Q4 2026: AWS Well-Architected Framework (aws.amazon.
+ com/architecture/well-architected)\, one pillar per week against the VMS\;
+  log gaps as GitHub issues. Also AWS Workshops (workshops.aws) for a guide
+ d build. Q1-Q2 2027: Docker docs Get Started guide + Play with Docker\; po
+ rtfolio build 2. Q2 2027: kubernetes.io tutorials beside the Killercoda la
+ bs.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Deep work: Linux\, Docker\, containers
@@ -147,8 +172,8 @@ BEGIN:VEVENT
 SUMMARY:Master's coursework
 DTSTART;TZID=Africa/Lagos:20261007T200000
 DTEND;TZID=Africa/Lagos:20261007T210000
-DTSTAMP:20260929T104431Z
-UID:b62b3db9-9bd1-4107-9569-3cc7f8f543e8@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:22d9be4b10d8d639968b@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=WE
 DESCRIPTION:Miva modules / capstone. The capstone repo is portfolio build 
  3 and stays public.
@@ -162,11 +187,16 @@ BEGIN:VEVENT
 SUMMARY:Deep work: AWS architecture & security
 DTSTART;TZID=Africa/Lagos:20261008T180000
 DTEND;TZID=Africa/Lagos:20261008T193000
-DTSTAMP:20260929T104431Z
-UID:c4f7d4d3-6c74-4d05-9959-0daf8f3946f0@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:2160bc03fbcec7b3b94e@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=TH
-DESCRIPTION:Well-Architected review of the VMS\; IAM\, networking\, harden
- ing module.
+DESCRIPTION:Q4 2026: portfolio build 1\, the production-style VPC (public/
+ private subnets\, NAT\, security groups\, IAM) in a PERSONAL free-tier acc
+ ount with a $5 billing alarm\; tear down after each session. Capstone repo
+  public with README + diagram. Q1 2027: capstone build on Proxmox/Terrafor
+ m. Q3 2027 onward: dora.dev guides\; measure the four DORA metrics on the 
+ VMS pipeline. 2028: Kleppmann's free DDIA lectures (YouTube) + AWS Archite
+ cture Center.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Deep work: AWS architecture & security
@@ -177,11 +207,16 @@ BEGIN:VEVENT
 SUMMARY:Family business: ledger\, storefront\, plan
 DTSTART;TZID=Africa/Lagos:20261008T200000
 DTEND;TZID=Africa/Lagos:20261008T210000
-DTSTAMP:20260929T104431Z
-UID:e444eec8-e5a1-4c4f-9214-29861e12cbec@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:70652071afee1965c6c3@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=TH
 DESCRIPTION:One row in the ledger\, one step on the storefront or one para
- graph of the one-page plan. Files go in the business folder.
+ graph of the one-page plan. Files go in the business folder. Free study: Q
+ 4 2026 The Mom Test free talk (momtestbook.com) then the Profit First over
+ view (profitfirstbook.com) + SMEDAN/BOI resource pages\; Q1 2027 Eric Ries
+ 's Stanford Lean Startup lecture (YouTube)\; Q2 2027 Guy Kawasaki's Art of
+  the Start talk (YouTube)\; Q3 2027 TEF\, BOI\, SMEDAN\, AfDB programme pa
+ ges + Opportunity Desk.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Family business: ledger\, storefront\, plan
@@ -192,11 +227,12 @@ BEGIN:VEVENT
 SUMMARY:Deep work: consolidate\, commit\, README
 DTSTART;TZID=Africa/Lagos:20261009T180000
 DTEND;TZID=Africa/Lagos:20261009T193000
-DTSTAMP:20260929T104431Z
-UID:6ecbf5b4-dc43-4534-b27b-34cb95c53ed7@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:c2f3d57a3b6171a1cc61@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=FR
-DESCRIPTION:Push the week's work. Update README\, diagram\, cost figure. N
- o new topics on Friday.
+DESCRIPTION:No new topics. Push the week's work. Update README\, architect
+ ure diagram\, cost figure. Write three lines in the weekly review file: wh
+ at I built\, what broke\, what I can now explain without AI.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Deep work: consolidate\, commit\, README
@@ -207,8 +243,8 @@ BEGIN:VEVENT
 SUMMARY:Free evening
 DTSTART;TZID=Africa/Lagos:20261009T200000
 DTEND;TZID=Africa/Lagos:20261009T210000
-DTSTAMP:20260929T104431Z
-UID:adf951fb-a9ec-44de-882c-10fcc8c7cfe2@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:9191ce463907d4c4f9e2@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=FR
 DESCRIPTION:Recovery is part of the system. No guilt.
 BEGIN:VALARM
@@ -221,16 +257,16 @@ BEGIN:VEVENT
 SUMMARY:Chores\, laundry\, clothes for the week
 DTSTART;TZID=Africa/Lagos:20261003T070000
 DTEND;TZID=Africa/Lagos:20261003T090000
-DTSTAMP:20260929T104431Z
-UID:95416cef-5952-4ddc-bc05-2f906c4a8bdb@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:af2e19681f54bf8b04cf@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Walk
 DTSTART;TZID=Africa/Lagos:20261003T090000
 DTEND;TZID=Africa/Lagos:20261003T094500
-DTSTAMP:20260929T104431Z
-UID:5baab073-9338-4d45-805e-d302e9f41698@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:d6be4c3d9f9303c0a7c5@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
 DESCRIPTION:Counts fully. Optional second walk in the evening.
 BEGIN:VALARM
@@ -243,11 +279,15 @@ BEGIN:VEVENT
 SUMMARY:Cloud deep work (2 h)
 DTSTART;TZID=Africa/Lagos:20261003T103000
 DTEND;TZID=Africa/Lagos:20261003T123000
-DTSTAMP:20260929T104431Z
-UID:8d64fab5-cd76-4b4c-8f01-a1c5384ea39b@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:00abf4bf84afe2846be5@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
-DESCRIPTION:The week's portfolio build. On the first Saturday of the month
-  this moves to the afternoon or is skipped for the leadership programme.
+DESCRIPTION:The week's portfolio build\, the long stretch the weekday bloc
+ ks cannot give: Q4 2026 build 1 (VPC) and the capstone repo\; Q1 2027 buil
+ d 3 (Terraform modules)\; Q2 2027 VMS on Kubernetes\; Q3 2027 the article 
+ series\; Q4 2027 the consulting hardening module\; 2028 the landing zone. 
+ Same resources as the weekday blocks. First Saturday of the month: moves t
+ o the afternoon or is skipped for the leadership programme.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Cloud deep work (2 h)
@@ -258,18 +298,38 @@ BEGIN:VEVENT
 SUMMARY:Family business (1 h)
 DTSTART;TZID=Africa/Lagos:20261003T140000
 DTEND;TZID=Africa/Lagos:20261003T150000
-DTSTAMP:20260929T104431Z
-UID:7796594f-db3b-4539-bede-a88b8d98eca5@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:922db4fe62dda0c4df1d@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
 DESCRIPTION:Ledger\, storefront\, plan\, customer conversations\, grant sh
  ortlist.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Opportunity Radar (30 min)
+DTSTART;TZID=Africa/Lagos:20261003T160000
+DTEND;TZID=Africa/Lagos:20261003T163000
+DTSTAMP:20260930T100419Z
+UID:d3f4599bc17157e8b002@twoyearplan
+RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
+DESCRIPTION:15 min LEARN + CONNECT: AWS Events\, GDG/DevFest Abuja & Lagos
+ \, CNCF/Linux Foundation\, HashiCorp\, Luma\, Eventbrite. 15 min FUND: TEF
+ \, BOI iProgrammes\, SMEDAN funding portal\, AfDB\, F6S\, Opportunity Desk
+ . Start from Monday's digest\, not from scratch. Capture\, do not browse: 
+ record only what passes Nigeria-eligible\, food/agro or cloud relevant\, r
+ ight stage\, achievable\, deadline realistic. One row each in the Opportun
+ ity Tracker tab of the plan doc. Timer on. Stop at 30.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Opportunity Radar (30 min)
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trading review (30-60 min)
 DTSTART;TZID=Africa/Lagos:20261003T150000
 DTEND;TZID=Africa/Lagos:20261003T160000
-DTSTAMP:20260929T104431Z
-UID:254ceb76-8b1e-4732-8884-fc43fcb53bb4@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:9f4a816f4a3f1e9a36df@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
 DESCRIPTION:Review the week's journal. Win rate\, avg win/avg loss\, worst
   streak. No new trades in this block.
@@ -278,8 +338,8 @@ BEGIN:VEVENT
 SUMMARY:Leadership strategy & development programme
 DTSTART;TZID=Africa/Lagos:20261003T090000
 DTEND;TZID=Africa/Lagos:20261003T130000
-DTSTAMP:20260929T104431Z
-UID:fbb1e7c1-34ca-4d93-af34-367f9838127b@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:3ed61b3d0f105322401a@twoyearplan
 RRULE:FREQ=MONTHLY;COUNT=12;BYDAY=1SA
 DESCRIPTION:Monthly session. Afternoon: write one page - what I heard\, wh
  at I will try before next session\, what I tried since the last one. Adjus
@@ -294,17 +354,20 @@ BEGIN:VEVENT
 SUMMARY:Light cloud (optional\, 60-90 min)
 DTSTART;TZID=Africa/Lagos:20261004T110000
 DTEND;TZID=Africa/Lagos:20261004T123000
-DTSTAMP:20260929T104431Z
-UID:625d1276-751b-456e-9283-110f750aee29@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:87094be22ebc72fbf808@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SU
-DESCRIPTION:Only if practical. Sunday is flexible.
+DESCRIPTION:Optional and light: a practice exam section for the current ce
+ rt (AWS Skill Builder free practice question sets\, or the free ExamPro pr
+ actice questions)\, or reread the chapter that confused you this week. Not
+  for new material. Sunday is flexible.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weekly review + scoreboard + next week's three
 DTSTART;TZID=Africa/Lagos:20261004T170000
 DTEND;TZID=Africa/Lagos:20261004T174500
-DTSTAMP:20260929T104431Z
-UID:a88ae4ac-f252-43ea-aaf4-92d44e95ec53@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:837616b4e9a28c3d3dab@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SU
 DESCRIPTION:Score each area out of 7. Answer: accomplished/learned/built\;
   time wasted\; what I avoided from shyness\; finances\, journal\, business
@@ -320,8 +383,8 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q4 2026 (90 min)
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-DTSTAMP:20260929T104431Z
-UID:c07d6571-5a7f-4036-b615-94cb5fa4cfa2@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:58090a471e7fe53e78de@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
   3 people keep/stop.
@@ -335,8 +398,8 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q1 2027 (90 min)
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-DTSTAMP:20260929T104431Z
-UID:6c17f829-2fd1-4f87-ad04-4f51ca966f46@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:1a596e73dd73b9a6c685@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
   3 people keep/stop.
@@ -350,8 +413,8 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q2 2027 (90 min)
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
-DTSTAMP:20260929T104431Z
-UID:204a224a-293a-4295-b6e8-4787640103ae@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:e63a3322739e539f9f15@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
   3 people keep/stop.
@@ -365,8 +428,8 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q3 2027 (90 min)
 DTSTART;VALUE=DATE:20270927
 DTEND;VALUE=DATE:20270928
-DTSTAMP:20260929T104431Z
-UID:72a996e6-0dfb-4de0-a5df-179f2dc9ada6@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:39e48930f8c3fd9ea94d@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
   3 people keep/stop.
@@ -380,8 +443,8 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q4 2027 (90 min)
 DTSTART;VALUE=DATE:20271227
 DTEND;VALUE=DATE:20271228
-DTSTAMP:20260929T104431Z
-UID:28edc720-82c9-4107-a229-71b4f6b9fa96@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:353918db2494933cde70@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
   3 people keep/stop.
@@ -395,8 +458,8 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q1 2028 (90 min)
 DTSTART;VALUE=DATE:20280327
 DTEND;VALUE=DATE:20280328
-DTSTAMP:20260929T104431Z
-UID:c8a49e5f-9d00-483d-bd1c-3bd06f5998c2@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:7f74a8291370425fe074@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
   3 people keep/stop.
@@ -410,8 +473,8 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q2 2028 (90 min)
 DTSTART;VALUE=DATE:20280626
 DTEND;VALUE=DATE:20280627
-DTSTAMP:20260929T104431Z
-UID:407cb577-d17d-44a2-9e5a-508c7c682865@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:cc2823a1cfc29346b7e3@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
   3 people keep/stop.
@@ -425,8 +488,8 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q3 2028 (90 min)
 DTSTART;VALUE=DATE:20280925
 DTEND;VALUE=DATE:20280926
-DTSTAMP:20260929T104431Z
-UID:9db9673a-06a0-4229-bbdd-7d03b4c9caee@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:a8907c356d2da60a93c5@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
   3 people keep/stop.
@@ -440,8 +503,8 @@ BEGIN:VEVENT
 SUMMARY:Gym: choose one and pay for January
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20260929T104431Z
-UID:b8fdd988-9eab-4ae2-881c-b2c6edc777ed@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:35cb2c744b2d22537309@twoyearplan
 DESCRIPTION:Three sessions a week from 4 Jan 2027\, in the 17:00 slot Mon/
  Wed/Fri. Walking continues.
 END:VEVENT
@@ -449,8 +512,8 @@ BEGIN:VEVENT
 SUMMARY:Trading gate: compute six-month demo stats
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
-DTSTAMP:20260929T104431Z
-UID:9e0aab27-f2fc-4ea9-9431-ea06284e8e7f@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:03142879773d6722c121@twoyearplan
 DESCRIPTION:Win rate\, average win to average loss\, worst losing streak\,
   rule adherence %. Positive over six months AND debt cleared AND one-month
   buffer = live account at 1% risk with money you can lose. Otherwise stay 
@@ -461,15 +524,15 @@ SUMMARY:Income checkpoint: offers coming? If not\, what does the market sa
  y is missing?
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
-DTSTAMP:20260929T104431Z
-UID:6f1ba004-8add-4d70-83b3-68f2acdd081e@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:a9ca22062e089b386373@twoyearplan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gate: senior cloud/DevOps role landed by now
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271001
-DTSTAMP:20260929T104431Z
-UID:eff5bc0d-108e-495e-915e-de6e10129c7c@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:d775f7345ec1cf45b552@twoyearplan
 DESCRIPTION:If it slipped\, Year 2 slides with it. Do not force consulting
   on top.
 END:VEVENT
@@ -477,15 +540,15 @@ BEGIN:VEVENT
 SUMMARY:Business: first two grant applications submitted
 DTSTART;VALUE=DATE:20271215
 DTEND;VALUE=DATE:20271216
-DTSTAMP:20260929T104431Z
-UID:58a21658-1cbc-4605-9a67-3390545f2eed@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:ba81e563ec789c7bd506@twoyearplan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gym
 DTSTART;TZID=Africa/Lagos:20270104T170000
 DTEND;TZID=Africa/Lagos:20270104T180000
-DTSTAMP:20260929T104431Z
-UID:65e9e349-8df7-4304-acc1-d938ca038158@twoyearplan
+DTSTAMP:20260930T100419Z
+UID:e1a72eb92ab92e58eb65@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,WE,FR
 DESCRIPTION:Replaces the transition walk on these days.
 BEGIN:VALARM
