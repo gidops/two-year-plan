@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Morning: reflection\, leadership page\, walk if possible
 DTSTART;TZID=Africa/Lagos:20261005T060000
 DTEND;TZID=Africa/Lagos:20261005T063000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:11ec214b8e4c8a4fd6eb@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,TU,WE,TH,FR
 DESCRIPTION:No phone before this block. One page or one short talk from th
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Transition: commute\, food\, rest\, short walk
 DTSTART;TZID=Africa/Lagos:20261005T170000
 DTEND;TZID=Africa/Lagos:20261005T180000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:acfcf7f930644cf9dc7c@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,TU,WE,TH,FR
 DESCRIPTION:The tired-to-scroll hour. Walk if you can. From Jan 2027 this 
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Shutdown: one-line day review + tomorrow's Daily 3
 DTSTART;TZID=Africa/Lagos:20261005T210000
 DTEND;TZID=Africa/Lagos:20261005T213000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:959d1cb7dcd81ba69bfb@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,TU,WE,TH,FR
 DESCRIPTION:Write one line: what did I do today that will still matter in 
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Sleep prep: phone outside the room
 DTSTART;TZID=Africa/Lagos:20261005T223000
 DTEND;TZID=Africa/Lagos:20261005T230000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:7d1477239a67e44f4d5e@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,TU,WE,TH,FR
 BEGIN:VALARM
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Deep work: AWS course
 DTSTART;TZID=Africa/Lagos:20261005T180000
 DTEND;TZID=Africa/Lagos:20261005T193000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:76ea48d544e4210584ae@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO
 DESCRIPTION:OPEN: https://skillbuilder.aws (free tier) -> Solutions Archit
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Finances: log spending\, check the debt line
 DTSTART;TZID=Africa/Lagos:20261005T200000
 DTEND;TZID=Africa/Lagos:20261005T210000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:ace81bb0bf0e5f2e5877@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO
 DESCRIPTION:Every naira for the week into the tracker. Debt payment confir
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Deep work: Linux\, then Terraform
 DTSTART;TZID=Africa/Lagos:20261006T180000
 DTEND;TZID=Africa/Lagos:20261006T193000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:7f6b13393fa858d65fa2@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=TU
 DESCRIPTION:OPEN: https://linuxcommand.org/tlcl.php (free PDF\, Shotts). O
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Trading: journal + review demo trades
 DTSTART;TZID=Africa/Lagos:20261006T200000
 DTEND;TZID=Africa/Lagos:20261006T210000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:b21314ced833978ae388@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=TU
 DESCRIPTION:Every trade logged the day it happens: setup\, entry\, stop\, 
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Deep work: Well-Architected\, Docker\, K8s
 DTSTART;TZID=Africa/Lagos:20261007T180000
 DTEND;TZID=Africa/Lagos:20261007T193000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:7856591ff9f6e7a001e3@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=WE
 DESCRIPTION:OPEN: https://aws.amazon.com/architecture/well-architected/ on
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Master's coursework
 DTSTART;TZID=Africa/Lagos:20261007T200000
 DTEND;TZID=Africa/Lagos:20261007T210000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:22d9be4b10d8d639968b@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=WE
 DESCRIPTION:Miva modules / capstone. The capstone repo is portfolio build 
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Deep work: build the VPC
 DTSTART;TZID=Africa/Lagos:20261008T180000
 DTEND;TZID=Africa/Lagos:20261008T193000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:5cfa690b1f9b1f032e6b@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=TH
 DESCRIPTION:BUILD: portfolio build 1\, the production-style VPC (public/pr
@@ -212,10 +212,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Family business: ledger\, storefront\, plan
-DTSTART;TZID=Africa/Lagos:20261008T200000
-DTEND;TZID=Africa/Lagos:20261008T210000
-DTSTAMP:20260930T120858Z
-UID:70652071afee1965c6c3@twoyearplan
+DTSTART;TZID=Africa/Lagos:20270107T200000
+DTEND;TZID=Africa/Lagos:20270107T210000
+DTSTAMP:20260930T134413Z
+UID:95577ba5805c7dd8dfb1@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=TH
 DESCRIPTION:One row in the ledger\, one step on the storefront or one para
  graph of the one-page plan. Files go in the business folder. Free study: Q
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Deep work: consolidate\, commit\, README
 DTSTART;TZID=Africa/Lagos:20261009T180000
 DTEND;TZID=Africa/Lagos:20261009T193000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:c2f3d57a3b6171a1cc61@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=FR
 DESCRIPTION:No new topics. Push the week's work: https://github.com/gidops
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:Free evening
 DTSTART;TZID=Africa/Lagos:20261009T200000
 DTEND;TZID=Africa/Lagos:20261009T210000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:9191ce463907d4c4f9e2@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=FR
 DESCRIPTION:Recovery is part of the system. No guilt.
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:Chores\, laundry\, clothes for the week
 DTSTART;TZID=Africa/Lagos:20261003T070000
 DTEND;TZID=Africa/Lagos:20261003T090000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:af2e19681f54bf8b04cf@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
 END:VEVENT
@@ -274,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:Walk
 DTSTART;TZID=Africa/Lagos:20261003T090000
 DTEND;TZID=Africa/Lagos:20261003T094500
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:d6be4c3d9f9303c0a7c5@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
 DESCRIPTION:Counts fully. Optional second walk in the evening.
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:Cloud deep work (2 h)
 DTSTART;TZID=Africa/Lagos:20261003T103000
 DTEND;TZID=Africa/Lagos:20261003T123000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:00abf4bf84afe2846be5@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
 DESCRIPTION:The week's portfolio build\, the long stretch the weekday bloc
@@ -306,10 +306,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Family business (1 h)
-DTSTART;TZID=Africa/Lagos:20261003T140000
-DTEND;TZID=Africa/Lagos:20261003T150000
-DTSTAMP:20260930T120858Z
-UID:922db4fe62dda0c4df1d@twoyearplan
+DTSTART;TZID=Africa/Lagos:20270102T140000
+DTEND;TZID=Africa/Lagos:20270102T150000
+DTSTAMP:20260930T134413Z
+UID:acde08dc60efd7c7774e@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
 DESCRIPTION:Ledger\, storefront\, plan\, customer conversations\, grant sh
  ortlist.
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Opportunity Radar (30 min)
 DTSTART;TZID=Africa/Lagos:20261003T160000
 DTEND;TZID=Africa/Lagos:20261003T163000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:d3f4599bc17157e8b002@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
 DESCRIPTION:15 min LEARN + CONNECT: AWS Events\, GDG/DevFest Abuja & Lagos
@@ -340,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:Trading review (30-60 min)
 DTSTART;TZID=Africa/Lagos:20261003T150000
 DTEND;TZID=Africa/Lagos:20261003T160000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:9f4a816f4a3f1e9a36df@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SA
 DESCRIPTION:Review the week's journal. Win rate\, avg win/avg loss\, worst
@@ -350,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:Leadership strategy & development programme
 DTSTART;TZID=Africa/Lagos:20261003T090000
 DTEND;TZID=Africa/Lagos:20261003T130000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:3ed61b3d0f105322401a@twoyearplan
 RRULE:FREQ=MONTHLY;COUNT=12;BYDAY=1SA
 DESCRIPTION:Monthly session. Afternoon: write one page - what I heard\, wh
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Light cloud (optional\, 60-90 min)
 DTSTART;TZID=Africa/Lagos:20261004T110000
 DTEND;TZID=Africa/Lagos:20261004T123000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:87094be22ebc72fbf808@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SU
 DESCRIPTION:Optional and light. OPEN: https://skillbuilder.aws/ free pract
@@ -380,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:Weekly review + scoreboard + next week's three
 DTSTART;TZID=Africa/Lagos:20261004T170000
 DTEND;TZID=Africa/Lagos:20261004T174500
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:837616b4e9a28c3d3dab@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=SU
 DESCRIPTION:Score each area out of 7. Answer: accomplished/learned/built\;
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q4 2026 (90 min)
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:58090a471e7fe53e78de@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
@@ -414,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q1 2027 (90 min)
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:1a596e73dd73b9a6c685@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
@@ -429,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q2 2027 (90 min)
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:e63a3322739e539f9f15@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
@@ -444,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q3 2027 (90 min)
 DTSTART;VALUE=DATE:20270927
 DTEND;VALUE=DATE:20270928
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:39e48930f8c3fd9ea94d@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
@@ -459,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q4 2027 (90 min)
 DTSTART;VALUE=DATE:20271227
 DTEND;VALUE=DATE:20271228
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:353918db2494933cde70@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
@@ -474,7 +474,7 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q1 2028 (90 min)
 DTSTART;VALUE=DATE:20280327
 DTEND;VALUE=DATE:20280328
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:7f74a8291370425fe074@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
@@ -489,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q2 2028 (90 min)
 DTSTART;VALUE=DATE:20280626
 DTEND;VALUE=DATE:20280627
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:cc2823a1cfc29346b7e3@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
@@ -504,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:Quarterly review: Q3 2028 (90 min)
 DTSTART;VALUE=DATE:20280925
 DTEND;VALUE=DATE:20280926
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:a8907c356d2da60a93c5@twoyearplan
 DESCRIPTION:Read the weekly review file first. Mark the tracker. Answer th
  e three questions. Copy next quarter into the tracker. Feedback round: ask
@@ -519,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Gym: choose one and pay for January
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:35cb2c744b2d22537309@twoyearplan
 DESCRIPTION:Three sessions a week from 4 Jan 2027\, in the 17:00 slot Mon/
  Wed/Fri. Walking continues.
@@ -528,7 +528,7 @@ BEGIN:VEVENT
 SUMMARY:Trading gate: compute six-month demo stats
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:03142879773d6722c121@twoyearplan
 DESCRIPTION:Win rate\, average win to average loss\, worst losing streak\,
   rule adherence %. Positive over six months AND debt cleared AND one-month
@@ -540,14 +540,14 @@ SUMMARY:Income checkpoint: offers coming? If not\, what does the market sa
  y is missing?
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:a9ca22062e089b386373@twoyearplan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gate: senior cloud/DevOps role landed by now
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271001
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:d775f7345ec1cf45b552@twoyearplan
 DESCRIPTION:If it slipped\, Year 2 slides with it. Do not force consulting
   on top.
@@ -556,14 +556,471 @@ BEGIN:VEVENT
 SUMMARY:Business: first two grant applications submitted
 DTSTART;VALUE=DATE:20271215
 DTEND;VALUE=DATE:20271216
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:ba81e563ec789c7bd506@twoyearplan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: create the folder
+DTSTART;TZID=Africa/Lagos:20261003T140000
+DTEND;TZID=Africa/Lagos:20261003T150000
+DTSTAMP:20260930T134413Z
+UID:b324a26c6f6545723361@twoyearplan
+DESCRIPTION:Create a shared folder (Google Drive) named after the business
+  with 5 subfolders: Registration\, Finances\, Customers\, Brand\, Applicat
+ ions. Put the CAC certificate in Registration. Write one note listing ever
+ y document you have and every one you do not (TIN\, bank letter\, receipts
+ \, photos). Done = folder exists and the note is in it.
+URL:https://drive.google.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: create the folder
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: start the ledger
+DTSTART;TZID=Africa/Lagos:20261008T200000
+DTEND;TZID=Africa/Lagos:20261008T210000
+DTSTAMP:20260930T134413Z
+UID:65033ebb36e48a6d034a@twoyearplan
+DESCRIPTION:Google Sheet 'Ledger' in Finances. Columns: Date | Customer | 
+ City/Country | Product | Qty | Price | Amount | Cost of goods | Channel (h
+ ow they found you) | Paid? | Notes. Enter every order you can remember so 
+ far\, even five rows. Second tab 'Expenses': Date | Item | Amount | Catego
+ ry. Done = both tabs exist with real rows.
+URL:https://sheets.google.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: start the ledger
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: TIN check
+DTSTART;TZID=Africa/Lagos:20261010T140000
+DTEND;TZID=Africa/Lagos:20261010T150000
+DTSTAMP:20260930T134413Z
+UID:335c92481c798f6475fd@twoyearplan
+DESCRIPTION:Does the business have a Tax Identification Number? Check the 
+ CAC documents (new registrations usually get one automatically). If yes\, 
+ save it in Registration. If no\, start the JTB/FIRS TIN registration onlin
+ e: https://tin.jtb.gov.ng/ . Done = TIN saved\, or application started wit
+ h the reference number noted.
+URL:https://tin.jtb.gov.ng/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: TIN check
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: one-page plan\, first draft
+DTSTART;TZID=Africa/Lagos:20261015T200000
+DTEND;TZID=Africa/Lagos:20261015T210000
+DTSTAMP:20260930T134413Z
+UID:9b3b738c489fd41b3f88@twoyearplan
+DESCRIPTION:Write it badly in one sitting\, in a Google Doc in the folder.
+  Eight headings\, two to three sentences each: What we make. Who buys it (
+ diaspora first\, where exactly). Why they buy from us instead of alternati
+ ves. How we reach them. Price per pack and cost per pack (guess for now). 
+ How much we sell a month today. What N5m would buy and what it would chang
+ e. Who runs it. Done = all eight headings have words under them.
+URL:https://docs.google.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: one-page plan\, first draft
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: Mom Test questions + first 3 customers
+DTSTART;TZID=Africa/Lagos:20261017T140000
+DTEND;TZID=Africa/Lagos:20261017T150000
+DTSTAMP:20260930T134413Z
+UID:e411b4bab4fb7da5b7ab@twoyearplan
+DESCRIPTION:Watch Rob Fitzpatrick's free talk (30 min): https://www.momtes
+ tbook.com/ . Write 5 questions that ask about the customer's past behaviou
+ r\, not your product ('When did you last buy this? From where? What was an
+ noying about it?'). Message 3 existing customers today and ask for 10 minu
+ tes this week. Done = questions written\, 3 messages sent.
+URL:https://www.momtestbook.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: Mom Test questions + first 3 customers
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: cost per pack
+DTSTART;TZID=Africa/Lagos:20261022T200000
+DTEND;TZID=Africa/Lagos:20261022T210000
+DTSTAMP:20260930T134413Z
+UID:b5863d384088a35c5093@twoyearplan
+DESCRIPTION:In the Finances folder\, sheet 'Unit cost'. List every input f
+ or one production batch: raw food\, other ingredients\, packaging\, labels
+ \, fuel/power\, labour hours x rate\, transport. Divide by packs produced.
+  That is cost per pack. Compare with the selling price\; write the margin 
+ per pack at the bottom. Done = a real number for cost and margin per produ
+ ct.
+URL:https://sheets.google.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: cost per pack
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: customer conversations 1-3
+DTSTART;TZID=Africa/Lagos:20261024T140000
+DTEND;TZID=Africa/Lagos:20261024T150000
+DTSTAMP:20260930T134413Z
+UID:b7f1e394da445dd565f8@twoyearplan
+DESCRIPTION:Hold the 3 conversations (call or WhatsApp voice). Take notes 
+ in Customers/conversations.doc: what they said in their words\, not your i
+ nterpretation. Note what they buy elsewhere\, what they pay\, what frustra
+ tes them about getting Nigerian food abroad. Done = 3 sets of notes.
+URL:https://docs.google.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: customer conversations 1-3
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: bank account requirements
+DTSTART;TZID=Africa/Lagos:20261029T200000
+DTEND;TZID=Africa/Lagos:20261029T210000
+DTSTAMP:20260930T134413Z
+UID:c335f11799c1c8c54e8a@twoyearplan
+DESCRIPTION:Pick a bank for a business (corporate) account: compare 2 or 3
+  on monthly fees\, online banking\, and whether they accept foreign card p
+ ayments via Paystack/Flutterwave. List the documents needed (CAC certifica
+ te\, status report\, TIN\, directors' ID and passport photos\, utility bil
+ l\, board resolution if required). Put the checklist in Registration. Done
+  = bank chosen\, checklist written\, appointment or online application sta
+ rted.
+URL:https://www.paystack.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: bank account requirements
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: open the account
+DTSTART;TZID=Africa/Lagos:20261031T140000
+DTEND;TZID=Africa/Lagos:20261031T150000
+DTSTAMP:20260930T134413Z
+UID:460e35431880a2efd187@twoyearplan
+DESCRIPTION:Complete the business bank account opening\, or gather whateve
+ r the checklist still lacks. From now on every business naira goes through
+  this account\, never personal money. Done = account opened or every missi
+ ng document obtained.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: open the account
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: SMEDAN registration
+DTSTART;TZID=Africa/Lagos:20261105T200000
+DTEND;TZID=Africa/Lagos:20261105T210000
+DTSTAMP:20260930T134413Z
+UID:bda7515345111fd8dd64@twoyearplan
+DESCRIPTION:Register the business on the SMEDAN portal https://smedan.gov.
+ ng/ and the SMEDAN funding portal https://fund.smedan.gov.ng/ . Save the l
+ ogin details in the Applications folder (password manager\, not the doc). 
+ Note what the portal asks for that you do not yet have. Done = registered
+ \, gaps noted.
+URL:https://fund.smedan.gov.ng/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: SMEDAN registration
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: conversations 4-6\, then patterns
+DTSTART;TZID=Africa/Lagos:20261107T140000
+DTEND;TZID=Africa/Lagos:20261107T150000
+DTSTAMP:20260930T134413Z
+UID:b36266b906f36725502c@twoyearplan
+DESCRIPTION:Three more customer conversations (ask the first three for one
+  referral each). Then read all six sets of notes and write one paragraph: 
+ what do they all say? Which product\, which pain\, which price? Done = par
+ agraph written at the top of conversations.doc.
+URL:https://docs.google.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: conversations 4-6\, then patterns
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: product photos and label
+DTSTART;TZID=Africa/Lagos:20261112T200000
+DTEND;TZID=Africa/Lagos:20261112T210000
+DTSTAMP:20260930T134413Z
+UID:8783aa823ff13d873b50@twoyearplan
+DESCRIPTION:With the phone\, in daylight\, against a plain background: 5 p
+ hotos per product\, the pack front\, the pack back\, the product open\, in
+  use. Save to Brand. Check the label has: product name\, ingredients\, net
+  weight\, production and expiry dates\, producer name and address\, batch 
+ number. Note what is missing. Done = photos in Brand\, label gaps listed.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: product photos and label
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: shipping to the diaspora
+DTSTART;TZID=Africa/Lagos:20261114T140000
+DTEND;TZID=Africa/Lagos:20261114T150000
+DTSTAMP:20260930T134413Z
+UID:e640d6d25ffe16213c0d@twoyearplan
+DESCRIPTION:Research how a 2-5 kg food parcel gets from Abuja to London\, 
+ Houston or Toronto: DHL\, UPS\, FedEx\, and consolidators (search 'cargo t
+ o UK from Nigeria Abuja'). Get 3 quotes per kg. Check which foods are allo
+ wed into the UK\, US and Canada as personal food imports. Write a one-page
+  'Shipping' note in the folder with costs and rules. Done = 3 quotes and t
+ he rules written.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: shipping to the diaspora
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: business profile paragraph
+DTSTART;TZID=Africa/Lagos:20261119T200000
+DTEND;TZID=Africa/Lagos:20261119T210000
+DTSTAMP:20260930T134413Z
+UID:8340b67e9cdebadf2736@twoyearplan
+DESCRIPTION:Write the 150-word business profile every application asks for
+ : what the business makes\, for whom\, since when\, where it operates\, wh
+ at makes it different\, and the one number you have (orders to date or mon
+ thly sales from the ledger). Save as Applications/profile.doc. Done = 150 
+ words you could paste into any form.
+URL:https://docs.google.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: business profile paragraph
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: choose the storefront
+DTSTART;TZID=Africa/Lagos:20261121T140000
+DTEND;TZID=Africa/Lagos:20261121T150000
+DTSTAMP:20260930T134413Z
+UID:9373d8ba843f07192187@twoyearplan
+DESCRIPTION:Decide the online storefront. Compare on: accepts foreign card
+ s\, payout to Nigerian account\, monthly cost\, setup effort. Candidates: 
+ Paystack Storefront (free)\, Selar\, Flutterwave Store\, Shopify (paid). P
+ ick one\; write the reason in one line. Done = decision written in the pla
+ n doc.
+URL:https://paystack.com/storefront
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: choose the storefront
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: TEF free training\, module 1
+DTSTART;TZID=Africa/Lagos:20261126T200000
+DTEND;TZID=Africa/Lagos:20261126T210000
+DTSTAMP:20260930T134413Z
+UID:eb12048c56139741b90b@twoyearplan
+DESCRIPTION:Enrol in the Tony Elumelu Foundation's free self-paced entrepr
+ eneurship training: https://www.tonyelumelufoundation.org/ (TEFConnect). C
+ omplete module 1. Note the 2027 programme application window if shown. Don
+ e = enrolled\, module 1 done\, window date in the Opportunity Tracker.
+URL:https://www.tonyelumelufoundation.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: TEF free training\, module 1
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: storefront skeleton
+DTSTART;TZID=Africa/Lagos:20261128T140000
+DTEND;TZID=Africa/Lagos:20261128T150000
+DTSTAMP:20260930T134413Z
+UID:539283faddd452c5de9e@twoyearplan
+DESCRIPTION:Set up the chosen storefront with 2 products: photos from Bran
+ d\, the profile paragraph as the About text\, prices from the Unit cost sh
+ eet\, shipping cost from the Shipping note. Not live yet. Done = two produ
+ ct pages exist in draft.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: storefront skeleton
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: payments
+DTSTART;TZID=Africa/Lagos:20261203T200000
+DTEND;TZID=Africa/Lagos:20261203T210000
+DTSTAMP:20260930T134413Z
+UID:35a931252737a6492465@twoyearplan
+DESCRIPTION:Open a Paystack or Flutterwave business account linked to the 
+ business bank account. Enable international cards. Run one test payment fr
+ om a friend abroad or your own foreign card if you have one. Done = accoun
+ t approved\, one test payment received.
+URL:https://www.paystack.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: payments
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: conversations 7-10\, customer paragraph v2
+DTSTART;TZID=Africa/Lagos:20261205T140000
+DTEND;TZID=Africa/Lagos:20261205T150000
+DTSTAMP:20260930T134413Z
+UID:9bbe40bf8a90715fe5d5@twoyearplan
+DESCRIPTION:Four more conversations\, ideally two abroad. Update the patte
+ rns paragraph. Ask two happy customers for a two-sentence testimonial you 
+ may quote. Save in Customers/testimonials.doc. Done = 10 conversations tot
+ al\, 2 testimonials.
+URL:https://docs.google.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: conversations 7-10\, customer paragraph v2
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: first 10 grants into the tracker
+DTSTART;TZID=Africa/Lagos:20261210T200000
+DTEND;TZID=Africa/Lagos:20261210T210000
+DTSTAMP:20260930T134413Z
+UID:8c13f71234f673f22339@twoyearplan
+DESCRIPTION:From the Monday digests and Opportunity Desk\, list 10 grants
+ \, competitions or programmes that pass the filter into the Opportunity Tr
+ acker tab: https://claude.ai/code/artifact/a4adbafe-90ce-42a9-ac85-6587a16
+ dedc3 . For each: deadline\, grant or loan\, eligibility\, amount\, requir
+ ements\, next action. Done = 10 rows.
+URL:https://claude.ai/code/artifact/a4adbafe-90ce-42a9-ac85-6587a16dedc3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: first 10 grants into the tracker
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: first monthly summary
+DTSTART;TZID=Africa/Lagos:20261212T140000
+DTEND;TZID=Africa/Lagos:20261212T150000
+DTSTAMP:20260930T134413Z
+UID:743f850420910cc57a82@twoyearplan
+DESCRIPTION:From the ledger\, for October and November: revenue\, cost of 
+ goods\, expenses\, margin per product\, number of orders\, number of repea
+ t customers. One small table in Finances/summary.doc. This is the first re
+ al number a funder will ask for. Done = table with two months.
+URL:https://sheets.google.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: first monthly summary
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: NAFDAC requirements
+DTSTART;TZID=Africa/Lagos:20261217T200000
+DTEND;TZID=Africa/Lagos:20261217T210000
+DTSTAMP:20260930T134413Z
+UID:a95e0397789d2c3dfa15@twoyearplan
+DESCRIPTION:Processed food sold at scale in Nigeria needs NAFDAC registrat
+ ion\; read the MSME route on https://www.nafdac.gov.ng/ . Note the steps\,
+  documents\, fees and timeline. Decide whether to start it in Q1 2027 and 
+ put the cost in the plan. Done = one-page 'Regulatory' note in Registratio
+ n.
+URL:https://www.nafdac.gov.ng/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: NAFDAC requirements
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: one-page plan\, version 2
+DTSTART;TZID=Africa/Lagos:20261219T140000
+DTEND;TZID=Africa/Lagos:20261219T150000
+DTSTAMP:20260930T134413Z
+UID:0086dffff028184c8533@twoyearplan
+DESCRIPTION:Rewrite the one-page plan with everything learned: real unit c
+ ost and margin\, what customers said\, shipping cost\, storefront\, the tw
+ o-month numbers\, and a specific use of N5m (which machine\, how much pack
+ aging\, what it changes in output per month). Done = version 2 saved besid
+ e version 1.
+URL:https://docs.google.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: one-page plan\, version 2
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: tidy the folder (light)
+DTSTART;TZID=Africa/Lagos:20261224T200000
+DTEND;TZID=Africa/Lagos:20261224T210000
+DTSTAMP:20260930T134413Z
+UID:2fae35505f170cb5fa37@twoyearplan
+DESCRIPTION:Christmas Eve\, 20 minutes only. Make sure every document from
+  this quarter is in its subfolder with a clear name. Delete duplicates. Do
+ ne = folder someone else could navigate.
+URL:https://drive.google.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: tidy the folder (light)
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: Q4 review
+DTSTART;TZID=Africa/Lagos:20261226T140000
+DTEND;TZID=Africa/Lagos:20261226T150000
+DTSTAMP:20260930T134413Z
+UID:0e13de0f9f083e6a59b7@twoyearplan
+DESCRIPTION:Read the ledger\, the plan v2 and the conversations paragraph.
+  Write three lines: what exists now that did not in September\; what I got
+  wrong\; the one thing that would have moved it faster. Put them in the pl
+ an doc's quarterly review. Done = three lines written.
+URL:https://claude.ai/code/artifact/a4adbafe-90ce-42a9-ac85-6587a16dedc3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: Q4 review
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business: set Q1 2027 targets
+DTSTART;TZID=Africa/Lagos:20261231T200000
+DTEND;TZID=Africa/Lagos:20261231T210000
+DTSTAMP:20260930T134413Z
+UID:3c275f026d7400862a41@twoyearplan
+DESCRIPTION:Three targets\, written in the tracker: storefront live date (
+ a date in January)\; first 20 diaspora orders by end of March\; NAFDAC sta
+ rted or consciously deferred with a reason. Done = three dated targets in 
+ the Q1 2027 tracker table.
+URL:https://claude.ai/code/artifact/a4adbafe-90ce-42a9-ac85-6587a16dedc3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Business: set Q1 2027 targets
+TRIGGER:-PT5M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gym
 DTSTART;TZID=Africa/Lagos:20270104T170000
 DTEND;TZID=Africa/Lagos:20270104T180000
-DTSTAMP:20260930T120858Z
+DTSTAMP:20260930T134413Z
 UID:e1a72eb92ab92e58eb65@twoyearplan
 RRULE:FREQ=WEEKLY;UNTIL=20280930T225900Z;BYDAY=MO,WE,FR
 DESCRIPTION:Replaces the transition walk on these days.
